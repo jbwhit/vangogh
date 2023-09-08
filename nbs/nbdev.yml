@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "vangogh"
+  site-url: "https://jbwhit.github.io/vangogh"
+  description: "Decision tree attempt to make a Van Gogh"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/vangogh"
